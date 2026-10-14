@@ -1,3 +1,4 @@
+#python?excute & explain
 def main():
   print("hello from NGF day1!")
 
